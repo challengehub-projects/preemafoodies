@@ -1,3 +1,4 @@
+
 import { FaWhatsapp, FaPhone, FaInstagram, FaFacebook, FaTwitter, FaEnvelope } from "react-icons/fa";
 
 export default function Footer() {
@@ -42,22 +43,22 @@ export default function Footer() {
 
                             <div className="flex items-center gap-2">
                                 <FaPhone className="text-[#d4af37]" />
-                                <span>+234 812 345 6789</span>
+                                <span>+2347049630018</span>
                             </div>
 
                             <div className="flex items-center gap-2">
                                 <FaPhone className="text-[#d4af37]" />
-                                <span>+234 901 234 5678</span>
+                                <span>+2347049630018</span>
                             </div>
 
                             <div className="flex items-center gap-2">
                                 <FaEnvelope className="text-[#d4af37]" />
-                                <span>hello@peaceluxe.com</span>
+                                <span>preciousibe97@gmail.com</span>
                             </div>
 
                             {/* WHATSAPP BUTTON */}
                             <a
-                                href="https://wa.me/2348123456789"
+                                href="https://wa.me/+2347049630018"
                                 target="_blank"
                                 className="inline-flex items-center gap-2 mt-3 px-4 py-2 rounded-full border border-[#d4af37] text-[#d4af37] hover:bg-[#d4af37] hover:text-black transition"
                             >
@@ -72,11 +73,11 @@ export default function Footer() {
                 {/* SOCIAL ICONS */}
                 <div className="flex justify-center gap-6 mt-14 text-white/60">
 
-                    <a href="https://wa.me/2348123456789" target="_blank">
+                    <a href="https://wa.me/+2347049630018" target="_blank">
                         <FaWhatsapp className="text-xl hover:text-[#d4af37] transition" />
                     </a>
 
-                    <a href="https://instagram.com" target="_blank">
+                    <a href="https://instagram.com/preemafoodies" target="_blank">
                         <FaInstagram className="text-xl hover:text-[#d4af37] transition" />
                     </a>
 
@@ -88,7 +89,7 @@ export default function Footer() {
                         <FaTwitter className="text-xl hover:text-[#d4af37] transition" />
                     </a>
 
-                    <a href="mailto:hello@peaceluxe.com">
+                    <a href="mailto:preciousibe97@gmail.com">
                         <FaEnvelope className="text-xl hover:text-[#d4af37] transition" />
                     </a>
 
