@@ -23,7 +23,7 @@ function Navbar() {
 
           <h1 className="text-white tracking-[0.35em] font-light text-lg md:text-xl
           font-[Poppins]">
-            PREEAFOODIES
+            PREEMAFOODIES
           </h1>
         </div>
 
